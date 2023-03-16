@@ -1,0 +1,13 @@
+C:\Users\Capo\source\repos\Hilos\Hilos\bin\Debug\Hilos.exe.config
+C:\Users\Capo\source\repos\Hilos\Hilos\bin\Debug\Hilos.exe
+C:\Users\Capo\source\repos\Hilos\Hilos\bin\Debug\Hilos.pdb
+C:\Users\Capo\source\repos\Hilos\Hilos\bin\Debug\MaterialSkin.dll
+C:\Users\Capo\source\repos\Hilos\Hilos\obj\Debug\Hilos.csproj.AssemblyReference.cache
+C:\Users\Capo\source\repos\Hilos\Hilos\obj\Debug\Hilos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Capo\source\repos\Hilos\Hilos\obj\Debug\Hilos.frmHilos.resources
+C:\Users\Capo\source\repos\Hilos\Hilos\obj\Debug\Hilos.Properties.Resources.resources
+C:\Users\Capo\source\repos\Hilos\Hilos\obj\Debug\Hilos.csproj.GenerateResource.cache
+C:\Users\Capo\source\repos\Hilos\Hilos\obj\Debug\Hilos.csproj.CoreCompileInputs.cache
+C:\Users\Capo\source\repos\Hilos\Hilos\obj\Debug\Hilos.csproj.CopyComplete
+C:\Users\Capo\source\repos\Hilos\Hilos\obj\Debug\Hilos.exe
+C:\Users\Capo\source\repos\Hilos\Hilos\obj\Debug\Hilos.pdb

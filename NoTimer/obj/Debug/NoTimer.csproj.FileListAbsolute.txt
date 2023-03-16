@@ -1,0 +1,13 @@
+C:\Users\Capo\source\repos\Hilos\NoTimer\bin\Debug\NoTimer.exe.config
+C:\Users\Capo\source\repos\Hilos\NoTimer\bin\Debug\NoTimer.exe
+C:\Users\Capo\source\repos\Hilos\NoTimer\bin\Debug\NoTimer.pdb
+C:\Users\Capo\source\repos\Hilos\NoTimer\bin\Debug\MaterialSkin.dll
+C:\Users\Capo\source\repos\Hilos\NoTimer\obj\Debug\NoTimer.csproj.AssemblyReference.cache
+C:\Users\Capo\source\repos\Hilos\NoTimer\obj\Debug\NoTimer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Capo\source\repos\Hilos\NoTimer\obj\Debug\NoTimer.frmNoTimer.resources
+C:\Users\Capo\source\repos\Hilos\NoTimer\obj\Debug\NoTimer.Properties.Resources.resources
+C:\Users\Capo\source\repos\Hilos\NoTimer\obj\Debug\NoTimer.csproj.GenerateResource.cache
+C:\Users\Capo\source\repos\Hilos\NoTimer\obj\Debug\NoTimer.csproj.CoreCompileInputs.cache
+C:\Users\Capo\source\repos\Hilos\NoTimer\obj\Debug\NoTimer.csproj.CopyComplete
+C:\Users\Capo\source\repos\Hilos\NoTimer\obj\Debug\NoTimer.exe
+C:\Users\Capo\source\repos\Hilos\NoTimer\obj\Debug\NoTimer.pdb
